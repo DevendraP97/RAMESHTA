@@ -24,7 +24,7 @@ const CTA = () => {
           <div>
             <Link
               href="/contact-us"
-              className="mt-4 inline-block px-6  py-2 md:py-2 border-2 border-grey-900 text-black rounded-[8px] hover:bg-lg hover:text-white transition-all duration-300 text-md "
+              className="mt-4 mb-4 inline-block px-6  py-2 md:py-2 border-2 border-grey-900 text-black rounded-[8px] hover:bg-lg hover:text-white transition-all duration-300 text-md "
             >
               GROW WITH US
             </Link>
